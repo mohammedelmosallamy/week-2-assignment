@@ -1,0 +1,33 @@
+h1{
+    background-color: gray;
+    margin: -10px;
+    margin-bottom: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    color: white;
+}
+h3{
+    background-color: gray;
+    margin: -10px;
+    margin-top: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    color: white;
+}
+ul{
+    display: inline;
+    /* list-style: none; */
+}
+li{
+    display: inline;
+    float: left;
+}
+.thecity{
+    font-size: larger;
+    font-weight: bolder;
+}
+p{
+    display: inline;
+}
